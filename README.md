@@ -1,5 +1,5 @@
 # QuizApp
-Worked with open trivia database API to create a quiz app. The application makes a request to the API so that we always get different questions each time.
+Worked with open trivia database API to create a quiz app. The application makes a request to the API so that you always get different questions each time.
 
 ![Quiz](https://user-images.githubusercontent.com/63019595/139464117-93d3032d-97a5-4bd8-b608-7d1004f0b317.png)
 
